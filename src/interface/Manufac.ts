@@ -17,3 +17,13 @@ export interface ManufacData {
   "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": number | string | null;
   "Area Under Cultivation (UOM:Ha(Hectares))": number | string | null;
 }
+
+type AggregatedData = {
+  [year: string]: {
+    maxProduction: { crop: string; production: number };
+    minProduction: { crop: string; production: number };
+  };
+};
+
+// Example initialization (adjust based on your actual data structure)
+const aggregatedData: AggregatedData = {};

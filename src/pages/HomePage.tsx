@@ -1,10 +1,9 @@
 import React from 'react'
-import TableData from '../components/core/tableData/TableData'
-
+import FetchData from '../components/core/FetchDataFromApi/FetchData';
 
 const HomePage = () => {
   return (
-    <div><TableData/></div>
+    <div><FetchData/></div>
   )
 }
 
