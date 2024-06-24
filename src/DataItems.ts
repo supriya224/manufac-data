@@ -11,9 +11,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1950",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "nnull"
     },
     {
       "Country": "India",
@@ -67,9 +67,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1950",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -83,9 +83,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1950",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -115,9 +115,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1951",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -171,9 +171,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1951",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -187,9 +187,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1951",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -219,9 +219,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1952",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -275,9 +275,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1952",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -291,9 +291,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1952",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -323,9 +323,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1953",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -379,9 +379,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1953",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -395,9 +395,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1953",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -427,9 +427,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1954",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -483,9 +483,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1954",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -499,9 +499,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1954",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -531,9 +531,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1955",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -587,9 +587,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1955",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -603,9 +603,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1955",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -635,9 +635,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1956",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -691,9 +691,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1956",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -707,9 +707,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1956",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -739,9 +739,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1957",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -795,9 +795,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1957",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -811,9 +811,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1957",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -843,9 +843,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1958",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -899,9 +899,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1958",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -915,9 +915,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1958",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -947,9 +947,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1959",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1003,9 +1003,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1959",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1019,9 +1019,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1959",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1051,9 +1051,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1960",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1107,9 +1107,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1960",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1123,9 +1123,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1960",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1155,9 +1155,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1961",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1211,9 +1211,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1961",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1227,9 +1227,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1961",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1259,9 +1259,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1962",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1315,9 +1315,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1962",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1331,9 +1331,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1962",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1363,9 +1363,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1963",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1419,9 +1419,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1963",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1435,9 +1435,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1963",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1467,9 +1467,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1964",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1523,9 +1523,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1964",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1539,9 +1539,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1964",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1571,9 +1571,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1965",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1627,9 +1627,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1965",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1643,9 +1643,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1965",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1675,9 +1675,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1966",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1731,9 +1731,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1966",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1747,9 +1747,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1966",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1779,9 +1779,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1967",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1835,9 +1835,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1967",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1851,9 +1851,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1967",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1883,9 +1883,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1968",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1939,9 +1939,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1968",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1955,9 +1955,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1968",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -1987,9 +1987,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1969",
       "Crop Name": "Coffee",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -2043,9 +2043,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1969",
       "Crop Name": "Soyabean",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -2059,9 +2059,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 1969",
       "Crop Name": "Tea",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",
@@ -7371,9 +7371,9 @@ export const dataItems=[
       "Country": "India",
       "Year": "Financial Year (Apr - Mar), 2020",
       "Crop Name": "Tobacco",
-      "Crop Production (UOM:t(Tonnes))": "",
-      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "",
-      "Area Under Cultivation (UOM:Ha(Hectares))": ""
+      "Crop Production (UOM:t(Tonnes))": "null",
+      "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": "null",
+      "Area Under Cultivation (UOM:Ha(Hectares))": "null"
     },
     {
       "Country": "India",

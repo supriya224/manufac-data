@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { ManufacData } from "../interface/Manufac";
 import { dataItems } from "../DataItems";
-// import { dataitems } from "../DataItems"; // Adjust the path accordingly
 
 const useFetchData = () => {
   const [dataSet, setDataSet] = useState<ManufacData[]>([]);

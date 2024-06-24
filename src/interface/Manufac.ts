@@ -10,11 +10,10 @@
 
 // src/interface/Manufac.ts
 export interface ManufacData {
-    Country: string;
-    Year: string;
-    "Crop Name": string;
-    "Crop Production (UOM: t(Tonnes))"?: number | string;
-    "Yield Of Crops (UOM: Kg/Ha(Kilogram per Hectare))"?: number | string;
-    "Area Under Cultivation (UOM: Ha(Hectares))"?: number | string;
-  }
-  
+  Country: string;
+  Year: string;
+  "Crop Name": string;
+  "Crop Production (UOM:t(Tonnes))": number | string | null;
+  "Yield Of Crops (UOM:Kg/Ha(KilogramperHectare))": number | string | null;
+  "Area Under Cultivation (UOM:Ha(Hectares))": number | string | null;
+}
