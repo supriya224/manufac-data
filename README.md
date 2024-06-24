@@ -1,6 +1,6 @@
 # Crop Data Aggregation
 
-This project is a React application that fetches crop data from a local data source and displays it in a table format. The table shows the average yield and average cultivation area for each crop between the years 1950-2020.
+This project is a React application that fetches crop data from a local data source and displays it in a table format. The table shows the average yield and average cultivation area for each crop between the years 1950-2020. [Deplopy](https://manufac-data.vercel.app/),
 
 ## Features
 
